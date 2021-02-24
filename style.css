@@ -1,0 +1,52 @@
+body {
+  color: black;
+  font-family: "Quicksand", sans-serif;
+  background-color: #cad4d6;
+  margin: 0;
+}
+
+header {
+  background-color: #7f4f26;
+}
+
+header h1 {
+  margin-top: 0;
+}
+
+.ja-foto {
+  width: 28%;
+  float: left;
+  margin: 0 20px 20px 0;
+  border-radius: 10px;
+}
+
+section {
+  overflow: auto;
+  margin: 0 20%;
+}
+
+h1 {
+  padding: 10px;
+  margin-left: 20%;
+  color: white;
+}
+
+.profesionalprofile {
+  max-width: 700px;
+}
+
+.education {
+  clear: both;
+  max-width: 700px;
+}
+
+footer {
+  margin-top: 10%;
+  color: white;
+  background-color: #2a2c31;
+  text-align: center;
+}
+
+.workexperience {
+  max-width: 700px;
+}
